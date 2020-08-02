@@ -1,0 +1,23 @@
+.create__form__inner{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    box-shadow: 2px 8px 35px -1px;
+    h3{
+        font-family: "Roboto",sans-serif;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .create__form{
+        .form-group{
+
+            .custom-btn{
+                padding: 0 50px;
+            }
+        }
+    }
+}
